@@ -5,7 +5,11 @@ using namespace std;
 
 int main(){
 
-    cout << "ankit is great" << endl;
+ ios_base::sync_with_stdio(false);
+ cin.tie(nullptr);
+ cout.tie(nullptr);
+    
+    cout << "HELLO WORLD" << endl;
 
 
     return 0;
